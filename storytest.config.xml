@@ -1,0 +1,10 @@
+<suiteConfig>
+    <Settings>
+        <Runner>fitnesse.fitserver.FitServer</Runner>
+    </Settings>
+
+    <ApplicationUnderTest>
+        <addNamespace>TestSuite</addNamespace>
+        <addAssembly>D:\Desktop\CleanCoders\TestSuite\bin\Debug\Fixtures.dll</addAssembly>
+    </ApplicationUnderTest>
+</suiteConfig>

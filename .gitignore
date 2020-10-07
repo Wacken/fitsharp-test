@@ -1,0 +1,9 @@
+/.idea/
+*.csproj
+*.sln
+/packages/
+/fitnesseRoot/
+/TestSuite/packages.config
+/TestSuite/Properties/
+/TestSuite/bin/
+/TestSuite/obj/
